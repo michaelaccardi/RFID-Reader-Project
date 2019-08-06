@@ -12,3 +12,7 @@ Currently Working On:
 1. Making the program end at 0900. [Complete]
 2. Checking if name is already in .txt brefore appending, if it is don't append.  [Not Working]
 3. Breaking the input every 30 seconds using a timer function, in order to check time to break if no one is swiping currently [Researching]
+
+
+Please note that names are taken from the top 2019 names list and qcodes are random and are not associated to the class.
+
